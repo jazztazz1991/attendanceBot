@@ -27,7 +27,6 @@ const roster = [
     { name: 'Lal, Ranjeshni', attendance: false },
     { name: 'Lanes, Brandon', attendance: false },
     { name: 'Larsson, Isak', attendance: false },
-    { name: 'Llanos, Joseph', attendance: false },
     { name: 'Magri, Jake', attendance: false },
     { name: 'Mata, Victoria', attendance: false },
     { name: 'Mahmoudi, Parsa', attendance: false },
