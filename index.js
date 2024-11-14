@@ -14,7 +14,6 @@ const roster = [
     { name: 'Casadevall, Sebastian', attendance: false },
     { name: 'Chance, Matthew', attendance: false },
     { name: 'D’cruz, Elizabeth', attendance: false },
-    { name: 'Diallo, Salimatou', attendance: false },
     { name: 'Esasta, Kane', attendance: false },
     { name: 'Ferrario, Michele', attendance: false },
     { name: 'Fleming, Michael', attendance: false },
